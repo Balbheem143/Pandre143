@@ -24,5 +24,5 @@ Description here…
 🔗 GitHub Link
 
 ## Contact
-📧 Email: your-email  
+📧 Email: balbheempandre@gmail.com  
 🔗 LinkedIn: your-link
