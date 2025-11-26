@@ -1,4 +1,4 @@
-# Hi, I'm <Balbheem Pandre> 👋  
+# Hi, I'm Balbheem Pandre 👋  
 I'm a Master's graduate in Computer Science.
 
 ## Skills
